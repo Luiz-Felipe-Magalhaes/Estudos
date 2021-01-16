@@ -2,7 +2,8 @@ package PraticandoJava;
 
 import java.util.Scanner;
 
-public class testaElevador {
+public class testaElevador 
+{
 
 	public static void main(String[] args) 
 	{
