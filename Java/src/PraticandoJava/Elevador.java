@@ -1,4 +1,4 @@
-package PraticandoJava;
+package praticandoJava;
 
 public class Elevador 
 {

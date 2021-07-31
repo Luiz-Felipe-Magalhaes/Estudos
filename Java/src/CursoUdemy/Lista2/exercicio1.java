@@ -1,4 +1,4 @@
-package CursoUdemy.Lista2;
+package cursoUdemy.lista2;
 
 import java.util.Scanner;
 

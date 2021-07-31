@@ -1,4 +1,4 @@
-package PraticandoJava;
+package praticandoJava;
 
 import java.util.Scanner;
 
